@@ -1,0 +1,3 @@
+[submodule "boilerplate-project-exercisetracker"]
+	path = boilerplate-project-exercisetracker
+	url = git@github.com:paulmcquad/boilerplate-project-exercisetracker.git
