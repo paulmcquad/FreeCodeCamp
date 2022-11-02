@@ -1,3 +1,15 @@
 [submodule "boilerplate-project-exercisetracker"]
 	path = boilerplate-project-exercisetracker
 	url = git@github.com:paulmcquad/boilerplate-project-exercisetracker.git
+[submodule "boilerplate-project-headerparser"]
+	path = boilerplate-project-headerparser
+	url = git@github.com:paulmcquad/boilerplate-project-headerparser.git
+[submodule "boilerplate-project-timestamp"]
+	path = boilerplate-project-timestamp
+	url = git@github.com:paulmcquad/boilerplate-project-timestamp.git
+[submodule "boilerplate-npm"]
+	path = boilerplate-npm
+	url = git@github.com:paulmcquad/boilerplate-npm.git
+[submodule "boilerplate-project-urlshortener"]
+	path = boilerplate-project-urlshortener
+	url = git@github.com:paulmcquad/boilerplate-project-urlshortener.git
